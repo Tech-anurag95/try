@@ -3,17 +3,19 @@
 | Field | Value |
 |---|---|
 | **Date** | 2026-08-10 |
-| **Submission Time** | 2026-08-10T09:05:51.054Z |
+| **Time** | 2026-08-10T09:07:51.073Z |
 | **Difficulty** | Unknown |
 | **Topics** | N/A |
 | **Language** | python3 |
-| **Runtime** | 1750 ms |
-| **Memory** | 19.9 MB |
+| **Runtime** | 1747 ms |
+| **Memory** | 19.8 MB |
 
 ## Problem Description
 
-_(Not captured)_
+_(description not captured)_
 
 ## Solution
 
-See `solution.py`
+```python3
+// no code captured
+```
